@@ -16,3 +16,7 @@ Your travel website will showcase the following key elements:
 - **Feature-Rich Section**: Implement a complex and feature-rich section to enhance user interaction.
 - **Call to Action for Mobile Apps**: Encourage users to explore mobile applications related to your travel content.
 - **Big Footer Section**: Complete your website with a comprehensive footer containing various site and social links.
+
+
+*For github Actions*
+https://vercel.com/guides/how-can-i-use-github-actions-with-vercel
